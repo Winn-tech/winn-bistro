@@ -44,6 +44,9 @@ nav li:hover{
 .active{
     border-bottom: 2px solid orange;
 }
+a:hover{
+    cursor: pointer;
+}
 @media(max-width:500px){
     nav ul{
         display: none;
